@@ -2,9 +2,9 @@
 const Counter1 = () => {
     return (
         <div>
-            <p>Counter 1
-
-            </p>
+            <h1>
+                Count : 0
+            </h1>
         </div>
     );
 };
